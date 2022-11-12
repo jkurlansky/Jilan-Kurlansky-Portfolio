@@ -1,7 +1,6 @@
 .headerBackground {
     background-image: url("../../public/hello-im-jilan.jpg");
-}
-
-.headerBackground h1 {
-    color: chartreuse;
+    background-size: auto;
+    background-repeat: no-repeat;
+    padding: 75px;
 }
